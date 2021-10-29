@@ -1,7 +1,7 @@
 '''
 
 All code created by the team at Numerai.
-I've simply stiched together different pieces
+I've simply stitched together different pieces
 to achieve low memory consumption with acceptable diagnostics
 
 '''
